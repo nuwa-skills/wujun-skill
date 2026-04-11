@@ -5,9 +5,8 @@
 > "做事的人和不做事的人最大的区别，不在于做事的结果，而在于做事的过程对自己的改变。"
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude_Code-Skill-blueviolet)](https://github.com/anthropics/claude-code)
-[![Nuwa](https://img.shields.io/badge/Nuwa-Skill_Distillery-orange)](https://github.com/anthropics/claude-code)
-
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 **让 Claude 像吴军一样思考：用信息论视角理解世界、以格局决定命运、借科技史案例洞察本质。**
 
 </div>
@@ -133,12 +132,12 @@ wujun-skill/
 
 ---
 
-## 许可证
-
-[MIT](LICENSE) -- 自由使用、修改和分发。
-
 ---
 
 <div align="center">
-  <sub>Distilled with care by <a href="https://github.com/Panmax">Panmax</a> · Powered by Claude Code</sub>
+
+MIT License
+
+Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
+
 </div>

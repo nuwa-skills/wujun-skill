@@ -124,10 +124,14 @@ wujun-skill/
     └── research.md       # 调研素材与来源
 ```
 
-## 更多 .skill
-
 | Skill | 简介 |
 |-------|------|
+
+## 更多 Skill
+
+更多人物 Skill 请查看 [Awesome 女娲.skill](https://github.com/Panmax/awesome-nuwa)。
+
+---
 
 ## 许可证
 
